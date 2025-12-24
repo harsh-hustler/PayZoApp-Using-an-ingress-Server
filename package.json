@@ -1,4 +1,5 @@
 {
+  "__comment": "Writing package file for Node.js",
   "name": "node-starter",
   "private": true,
   "scripts": {

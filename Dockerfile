@@ -1,3 +1,4 @@
+#Adding nginx base image
 FROM nginx:alpine
 
 # Copy HTML files to nginx document root
