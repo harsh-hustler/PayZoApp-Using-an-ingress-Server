@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_HUB_REPO = 'harshraj95340/payzo-app'
-        K8S_CLUSTER_NAME = 'payzo-cluster'
+        K8S_CLUSTER_NAME = 'ingress-cluster'
         AWS_REGION = 'us-east-1'
         NAMESPACE = 'default'
         APP_NAME = 'payzo'
