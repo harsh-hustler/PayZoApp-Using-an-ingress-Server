@@ -13,7 +13,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 echo 'Checking out source code...'
-                git branch: 'main', url: 'https://github.com/harsh-hustler/PayZoApp-Using-an-ingress-Server.git'
+                git 'https://github.com/harsh-hustler/PayZoApp-Using-an-ingress-Server.git'
             }
         }
 
