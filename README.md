@@ -25,3 +25,4 @@ This project demonstrates a production-grade deployment of a multi-page web appl
 | GitOps          | ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white) |
 
 ## 🌐 Project Video
+[![Watch the video](https://img.youtube.com/vi/aVbcpf2sOWk/maxresdefault.jpg)](https://youtu.be/aVbcpf2sOWk)
