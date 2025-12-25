@@ -24,5 +24,5 @@ This project demonstrates a production-grade deployment of a multi-page web appl
 | Monitoring      | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) |
 | GitOps          | ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white) |
 
-## 🌐 Project Video - just click on the thumbnail image you will be redirected to the video
+## 🌐 Project Video - just click on the thumbnail image below and you will be redirected to the video
 [![Watch the video](https://img.youtube.com/vi/aVbcpf2sOWk/maxresdefault.jpg)](https://youtu.be/aVbcpf2sOWk)
