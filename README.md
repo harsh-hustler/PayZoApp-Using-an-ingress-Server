@@ -1,6 +1,6 @@
 # 🚀 Deployment of Microservices Application using Ingress Controller
 #  PayZoApp-Using-an-ingress-Server
-# This is a payzoapp in which a single url has been used for the three services as a load balancer instead of three url.
+# PayZoApp: A k8s based multi-service application that uses a single DNS/Ingress hostname to route traffic to multiple services with full observability and GitOps automation
 
 ### by Harsh Raj
 
